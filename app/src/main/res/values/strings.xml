@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YDiy</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_pre">Previous</string>
+    <string name="btn_next">Next</string>
+    <string name="default_step_text">Tap NEXT and PREVIOUS to cycle through the steps</string>
+</resources>
